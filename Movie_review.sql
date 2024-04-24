@@ -1,6 +1,6 @@
--- During the devlopment of a movie streming service a query is needed to retrun a list of 
+-- During the devlopment of a movie streaming service, a query is needed to retrun a list of 
 -- moviegenres and the best movie in the genre based on the maximum avgerage review rating. 
--- The result should have the following columns- genre|titile|stars 
+-- The result should have the following columns- genre|title|stars 
 -- Rting of the movie in star format, record format is a repeating numbers of stars from 1 to 5
 -- which is the average rating of reviews rounded to the whole number ---
 
